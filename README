@@ -1,0 +1,31 @@
+Submission
+
+Ready to submit your project? Collect the following files:
+
+1. A pdf document containing your answers to the rubric questions. This file should document your data wrangling process.
+• P3_DataWrangle.html (HTML file is used via iPython Notebook).
+
+2. Your Python code for Lesson 6 quizzes, as well as any additional code you used in auditing and cleaning your dataset for the final project.
+• mapparser.py      	 [Iterative Parsing Exercise]
+• tags.py                [Tag Types Exercise]
+• users.py               [Exploring Users Exercise]
+• audit.py               [Improving Street Names Exercise]
+• data.py                [Preparing for Database Exercise]
+• P3_source_code_v1.py	 [This is the python source code from iPython notebook Step #1]
+
+3. A text file containing a link to the map position you wrangled in your project, a short description of the area and a reason for your choice.
+• Link_To_OpenStreetMap_Anaheim_CA.txt
+
+4. An .osm file containing a sample part of the map region you used (around 1 - 10 MB in size). See instructor notes.
+• sample.osm       	 [Small example part from the map that you used (around 1-10 MB of size)]
+
+5. A text file containing a list of Web sites, books, forums, blog posts, github repositories etc that you referred to or used in this submission (Add N/A if you did not use such resources).
+• References.txt
+
+Then go back to your Udacity Home, click on the project, and follow the instructions to submit:
+• If you want to submit your files through a "Link to Project", upload your project files onto Github and send us the link.
+• If you instead want to submit your files through "Upload a Zip", compress your project directory, and submit that zip file.
+
+It can take us up to a week to grade the project, but in most cases it is much faster. You will get an email once your submission has been reviewed.
+
+If you are having any problems submitting your project or wish to check on the status of your submission, please email us at dataanalyst-project@udacity.com.
